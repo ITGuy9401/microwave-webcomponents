@@ -32,7 +32,7 @@ class MWButton extends HTMLElement {
       <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
       <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css">
       <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-icons.min.css">
-      <button class="btn btn-action">${this.label}</button>
+      <button class="btn btn-action btn-lg">${this.label}</button>
     `;
     this.customShadow.innerHTML = innerhtml
   }
