@@ -31,7 +31,7 @@ class MWButton extends HTMLElement {
     let innerhtml = `
       <button class="btn btn-action">${this.label}</button>
     `;
-    this.customShadow.innerHTML = innerhtmlcust
+    this.customShadow.innerHTML = innerhtml
   }
 }
 
