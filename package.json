@@ -1,0 +1,19 @@
+{
+  "name": "microwave-webcomponents",
+  "version": "1.0.0",
+  "description": "microwave experiment with web components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITGuy9401/microwave-webcomponents.git"
+  },
+  "author": "Arcangelo Vicedomini",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ITGuy9401/microwave-webcomponents/issues"
+  },
+  "homepage": "https://github.com/ITGuy9401/microwave-webcomponents#readme"
+}
