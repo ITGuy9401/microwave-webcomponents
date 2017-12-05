@@ -29,6 +29,9 @@ class MWButton extends HTMLElement {
 
   render() {
     let innerhtml = `
+      <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
+      <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css">
+      <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-icons.min.css">
       <button class="btn btn-action">${this.label}</button>
     `;
     this.customShadow.innerHTML = innerhtml
